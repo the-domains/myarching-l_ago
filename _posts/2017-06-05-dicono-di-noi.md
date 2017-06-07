@@ -1,12 +1,9 @@
 ---
 inFeed: true
-description: >-
-  Vuoi commentare la  nostra iniziativa? Vuoi condividerla con altri amici su
-  Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le
-  informazioni che vuoi!
-dateModified: '2017-06-06T08:45:19.081Z'
-datePublished: '2017-06-06T08:45:22.788Z'
-title: Commenti
+description: ''
+dateModified: '2017-06-05T09:03:37.289Z'
+datePublished: '2017-06-05T09:03:39.753Z'
+title: Dicono di noi
 author: []
 publisher: {}
 via: {}
@@ -14,12 +11,14 @@ isBasedOnUrl: >-
   https://the-grid.github.io/ed-userhtml/?g=eJxdkNFqwzAMRX8lCLrHOHGaDrK6Yy_7gv2A6yixmWsZ2Z3J389L3gYCXYlzL0hXt7B-YJPYKLA5xzQJUUppF23wTvTdGnqI6J-rC0lESrmNNr5bxkXt-Gn4OMnPWv9NdeX1Sm1kish5q_OfPdXej_1wGc9Sdq_y3A0vxc3ZqrHroDkk7NqiW21W0F8kNClvHhXciWfkKVDAN_pBXjyVybp5xlAZw-S9C6uCQNDslx0GBTVP-wp_sQ4pasZgNgWZnwi3qzi-cPsF6FNcKQ
 sourcePath: _posts/2017-06-05-dicono-di-noi.md
 starred: false
-datePublishedOriginal: '2017-06-06T08:41:51.846Z'
+datePublishedOriginal: '2017-06-05T08:48:25.568Z'
 _type: MediaObject
 
 ---
-# Commenti
+# Dicono di noi
 
-Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le informazioni che vuoi!
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkNFqwzAMRX8lCLrHOHGaDrK6Yy_7gv2A6yixmWsZ2Z3J389L3gYCXYlzL0hXt7B-YJPYKLA5xzQJUUppF23wTvTdGnqI6J-rC0lESrmNNr5bxkXt-Gn4OMnPWv9NdeX1Sm1kish5q_OfPdXej_1wGc9Sdq_y3A0vxc3ZqrHroDkk7NqiW21W0F8kNClvHhXciWfkKVDAN_pBXjyVybp5xlAZw-S9C6uCQNDslx0GBTVP-wp_sQ4pasZgNgWZnwi3qzi-cPsF6FNcKQ" height="244" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFrwzAMhe_5FSaDNYHW7gYbbEl6KOzQS0-9jTFcW26dJnawlWxl7L9PaVPYzZI-3pOeS20HZnWVmv0ieI_pqhTUWiVlVMF2uMpM7xRa7zI9Z3FObM5-EsYGGVhNtakjq5jmB8C3BlpwGNfnnTxsZQtZzN-XHwXR1rDsP7M-b3RGUjkLgH1wIzMJqQASYeJIoaABt5pmVl8xHoOiMhVCeedAITdSwd77E3eAwuLnZieiPvE63n2bfdtUD_cDhEhHVMMjf0lHGdqbdzKQx9Zr4NZFCLgG4wNk0115kfxm2qt-3GTOZtdEZvS6-S3qSD6zPC9KMeWVlGOiqpExXkJVvr2EkjItUS6OAUyVHhG7-CpEIw-ed8F35H0WE_JlNR6r9Hm5nBqubzsfkfSebt_zBx-ykOw" height="244" style=""></iframe>
+## I vostri commenti
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkMtqwzAQRff-CuFCLYEjt90VPxaGLrLJKrtSiiyNgpxYChrZNJT-e8fEhe7mcbj3zjTGLcyZNrfDLoaQ8q6paNRlDerorqnjdvY6ueC5KRmWxAr2nTG2qMhG6u2IrGVGniC9XWACn7C_HdXpoCbgKN6fPmqinWX8P9Pf9oaTlGAR0hz9ymxCOoJKsHGkUNNCOkM7Z-6YxKipzatKB-9BJ2mVhiGEs_SQKpc-98cKzVmO-PBlh-nSPj8uEJGOaJcX-ZqvMpRbXlUkj0MwIJ1HiKkHGyLw7S5RZz_cBD2vSUpW3D9SUPXntxuRfAoh6qba_vULDI9uhg" height="244" style=""></iframe>
