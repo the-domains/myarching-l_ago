@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-05-29T20:45:13.009Z'
-datePublished: '2017-05-29T20:45:14.095Z'
+dateModified: '2017-06-06T09:20:36.754Z'
+datePublished: '2017-06-06T09:20:39.121Z'
 title: Il Calendario del Piano
 author: []
 publisher: {}
@@ -22,4 +22,5 @@ _type: Article
 * abbinamento progettisti - edifici 1 settembre - 15 settembre 2017
 * avvio della fase di rilievo e progettazione 16 settembre - 16 ottobre 2017
 * progettazione e preventivi - creazione portafoglio immobiliare - valutazione valore immobili 17 Ottobre - 17 Novembre
-* pubblicazione portafoglio immobiliare per la vendita e il crowd funding 18 Novembre - 31 dicembre 2017
+* pubblicazione portafoglio immobiliare per la vendita e il crowd funding - costruzione del sito per la vendita 18 Novembre - 31 dicembre 2017
+* Attivazione promozione immobiliare verso investitori e potenziali acquirenti e report sui risultati di vendita a partire da 1 gennaio 2018\.
