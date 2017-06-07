@@ -22,13 +22,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.italiachecambia.org/2016/06/io-faccio-cosi-124-casale-soldi-gruppo-acquisto-terreni/
 title: 'Esempi: Campagna e Crowdfunding'
-datePublished: '2017-05-29T20:20:56.506Z'
-dateModified: '2017-05-29T20:17:30.435Z'
+datePublished: '2017-05-29T20:21:43.766Z'
+dateModified: '2017-05-29T20:21:43.627Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-05-29-esempi-campagna-e-crowdfunding.md
 starred: false
 datePublishedOriginal: '2017-05-29T20:20:56.506Z'
-sourcePath: _posts/2017-05-29-esempi-campagna-e-crowdfunding.md
 _context: 'http://schema.org'
 _type: MediaObject
 
