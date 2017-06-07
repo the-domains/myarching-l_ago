@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-05-29T20:21:43.627Z'
-datePublished: '2017-05-29T20:21:43.752Z'
-title: Le Fasi di attuazione
+dateModified: '2017-06-05T08:48:48.055Z'
+datePublished: '2017-06-05T08:48:48.529Z'
+title: Il Calendario del Piano
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: le-fasi-di-attuazione/index.html
 _type: Article
 
 ---
-# Le Fasi di attuazione
+# Il Calendario del Piano
 
 * preadesione proprietari immobiliari: 1 giugno 2017 - 30 giugno 2017
 * avvio della fase di standardizzazione progetto e controllo proprietà: 1 luglio - 31 agosto 2017
