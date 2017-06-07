@@ -50,8 +50,8 @@ description: >-
   di albergo diffuso che possa quindi gestire il complesso di immobili in modo
   da renderlo produttivo ed un fattore di reddito per i proprietari e l'intera
   comunità.
-dateModified: '2017-05-28T20:25:03.592Z'
-datePublished: '2017-05-28T20:25:03.717Z'
+dateModified: '2017-05-28T20:25:13.151Z'
+datePublished: '2017-05-28T20:25:13.300Z'
 title: Le motivazioni del progetto L’Ago
 author:
   - name: Ing. M.Lusetti
