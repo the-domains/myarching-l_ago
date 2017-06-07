@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.torri-superiore.org/'
 title: 'Esempi: Turismo nei borghi'
-datePublished: '2017-06-05T08:48:48.529Z'
-dateModified: '2017-06-05T08:48:48.055Z'
+datePublished: '2017-05-30T08:30:02.960Z'
+dateModified: '2017-05-30T08:30:02.767Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-29-ecovillaggio-torri-superiore-vacanze-sostenibili-liguria.md
