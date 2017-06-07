@@ -27,7 +27,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: L'aspetto emozionale
+  - name: home
     id: b170fdca-15e4-43ce-9072-6c5f34be2ba2
     type: content
   - name: le motivazioni del progetto
