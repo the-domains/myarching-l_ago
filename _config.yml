@@ -27,8 +27,14 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: a
+  - name: L'aspetto emozionale
     id: b170fdca-15e4-43ce-9072-6c5f34be2ba2
+    type: content
+  - name: La visione economica e tecnica
+    id: 25a4d76b-c0f0-47ea-b13f-8edaa18e2e40
+    type: content
+  - name: Le fasi  di attuazione
+    id: 1cc733b0-f7b6-49a8-93e0-73d20948b312
     type: content
 title: 'MyArching #ProgettoLAgo'
 content:
@@ -101,7 +107,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: promozione sociale e architettonica dell'antico borgo di L'Ago
+description: promozione sociale e architettonica dell'antico borgo di L'Ago - Val di Vara
 purpose:
   - type: external
     url: 'https://goo.gl/forms/HzFXUv1R2bX0XqpZ2'
