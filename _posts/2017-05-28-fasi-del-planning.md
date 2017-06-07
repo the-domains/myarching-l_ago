@@ -1,16 +1,20 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-05-28T13:10:58.452Z'
-datePublished: '2017-05-28T13:10:58.611Z'
+dateModified: '2017-05-28T13:23:37.353Z'
+datePublished: '2017-05-28T13:23:37.540Z'
 title: FASI DEL PLANNING
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-05-28-fasi-del-planning.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-28T13:10:29.249Z'
-_type: Blurb
+url: fasi-del-planning/index.html
+_type: Article
 
 ---
 # FASI DEL PLANNING
+
+# https://youtu.be/u5V1R7DsLdw
