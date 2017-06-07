@@ -50,8 +50,8 @@ description: >-
   di albergo diffuso che possa quindi gestire il complesso di immobili in modo
   da renderlo produttivo ed un fattore di reddito per i proprietari e l'intera
   comunità.
-dateModified: '2017-05-28T20:25:13.151Z'
-datePublished: '2017-05-28T20:25:13.300Z'
+dateModified: '2017-05-28T13:02:38.410Z'
+datePublished: '2017-05-28T13:02:39.673Z'
 title: Le motivazioni del progetto L’Ago
 author:
   - name: Ing. M.Lusetti
@@ -109,7 +109,13 @@ La proposta di investimento si amplia quindi non solo alla ristrutturazione dell
 
 ## FASI DI ATTUAZIONE DEL METAPROGETTO
 
-La prima fase si attua nella ricerca dei proprietari di immobili e terreni della comunità di L'Ago disponibili a dare in gestione la progettazione e la valorizzazione delle loro proprietà immobiliari alla ATP MyArching che si occuperà di tutte le successive fasi di valorizzazione immobiliare. Sarà quindi indetta una assemblea pubblica in cui verrà presentato il metaprogetto e si apriranno le iscrizioni dei proprietari all'iniziativa. Saranno redatti contratti standard di affidamento di incarico professionale a pagamento posticipato (immobile con compromesso firmato dal promittente acquirente) con pagamento anticipato delle sole spese vive a piè di lista definite nel contratto stesso (spese per rilievi -- spese per indagini catastali e documentali-- spese per gestione della fase promozionale per la rete internazionale di promozione) . Il contratto con i proprietari immobiliari prevederà nella fattispecie:
+La prima fase si attua nella ricerca dei proprietari di immobili e terreni della comunità di L'Ago disponibili a dare in gestione la progettazione e la valorizzazione delle loro proprietà immobiliari alla ATP MyArching che si occuperà di tutte le successive fasi di valorizzazione immobiliare.
+
+Sarà quindi indetta una assemblea pubblica in cui verrà presentato il metaprogetto e si apriranno le iscrizioni dei proprietari all'inziativa.
+
+Saranno redatti contratti standard di affidamento di incarico professionale a pagamento posticipato (immobile con compromesso firmato dal promittente acquirente) con pagamento anticipato delle sole spese vive a piè di lista definite nel contratto stesso (spese per rilievi -- spese per indagini catastali e documentali-- spese per gestione della fase promozionale per la rete internazionale di promozione) .
+
+Il contratto con i proprietari immobiliari prevederà nella fattispecie:
 
 * la definizione della soglia minima di partecipanti in numero di immobili e superfici disponibili per l'attivazione del progetto;
 * l'esclusiva per la gestione della vendita dell'immobile alla ATP MyArching che si avvarrà di mediatori immobiliari di fiducia e dei canali promozionali;
