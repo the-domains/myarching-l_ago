@@ -27,8 +27,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Cosa proponiamo
+  - name: home
     id: b170fdca-15e4-43ce-9072-6c5f34be2ba2
+    type: content
+  - name: le motivazioni del progetto
+    id: 25a4d76b-c0f0-47ea-b13f-8edaa18e2e40
     type: content
 title: 'MyArching #ProgettoLAgo'
 content:
