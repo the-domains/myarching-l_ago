@@ -1,22 +1,16 @@
-typography_spectrum: 0.16486706882613794
+typography_spectrum: 0.37787096085958183
 color:
-  brandStrength: 0.8927133492328743
-  lightness: 0.32749001439457925
-  saturation: 0.5187025472087472
-  rhythmicContrast: 0.6387493578903377
+  brandStrength: 0.9970013203565031
+  lightness: 0.9061110471375287
+  saturation: 0.21062044333666563
+  rhythmicContrast: 0.6749801391270012
   brandColors:
-    - '#7282B6'
-    - '#FEFEFE'
-    - '#CDBD9C'
-    - '#C6DCF5'
-    - '#27361B'
-github: true
-layout_spectrum: 0.03871556232185426
-analytics:
-  twitter: Ing. Massimiliano Lusetti
-author:
-  name: MyArching Team
-  email: max.lusetti@archingstudio.org
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.09159422013908625
 name: Lago.property
 url: 'https://lago.property'
 colors:
@@ -27,14 +21,8 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: L'aspetto emozionale
-    id: b170fdca-15e4-43ce-9072-6c5f34be2ba2
-    type: content
-  - name: La visione economica e tecnica
+  - name: Perchè L'Ago
     id: 25a4d76b-c0f0-47ea-b13f-8edaa18e2e40
-    type: content
-  - name: Le fasi  di attuazione
-    id: 1cc733b0-f7b6-49a8-93e0-73d20948b312
     type: content
 title: 'MyArching #ProgettoLAgo'
 content:
@@ -47,19 +35,21 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      datePublished: null
-      isBasedOnUrl: 'https://youtu.be/u5V1R7DsLdw'
-      keywords:
-        - '#zenui'
-        - '#minimovie'
-        - '#slideshowhappy'
-      related: []
       author:
         - name: Max Lusetti
           url: 'https://www.youtube.com/user/archingstudio1'
           avatar: {}
-      '@context': 'http://schema.org'
-      title: 28 mag 2017
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      keywords:
+        - '#zenui'
+        - '#minimovie'
+        - '#slideshowhappy'
+      description: My MiniMovie - Happy for 2017 (ZenUI)
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=u5V1R7DsLdw&feature=applinks'
@@ -98,12 +88,10 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
-      description: My MiniMovie - Happy for 2017 (ZenUI)
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/u5V1R7DsLdw'
+      title: 28 mag 2017
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -115,3 +103,9 @@ purpose:
   - type: external
     url: 'http://massimiliano.lusetti.mtalk.net/'
     label: chiamata on line
+github: true
+author:
+  name: MyArching Team
+  email: max.lusetti@archingstudio.org
+analytics:
+  twitter: Ing. Massimiliano Lusetti
