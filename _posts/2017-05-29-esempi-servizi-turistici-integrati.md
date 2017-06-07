@@ -20,13 +20,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.agriturismoilfilodipaglia.it/index.asp'
 title: 'Esempi: Servizi turistici integrati'
-datePublished: '2017-06-05T08:48:48.524Z'
-dateModified: '2017-06-05T08:48:48.055Z'
+datePublished: '2017-05-29T21:09:08.649Z'
+dateModified: '2017-05-29T21:08:52.314Z'
 via: {}
 inFeed: true
-sourcePath: _posts/2017-05-29-esempi-servizi-turistici-integrati.md
 starred: false
 datePublishedOriginal: '2017-05-29T21:09:08.649Z'
+sourcePath: _posts/2017-05-29-esempi-servizi-turistici-integrati.md
 _context: 'http://schema.org'
 _type: MediaObject
 
