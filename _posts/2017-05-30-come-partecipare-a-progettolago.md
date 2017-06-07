@@ -6,16 +6,18 @@ description: >-
   metterli a reddito (cioè ricavare un guadagno dall’affitto degli stessi dopo
   un’operazione di restauro) ti chiediamo di compilare il modulo di preadesione
   proprietari che si trova in alto nella home page. Ti servono i seguenti dati:
-dateModified: '2017-05-30T08:17:47.428Z'
-datePublished: '2017-05-30T08:17:56.008Z'
+dateModified: '2017-05-30T08:18:52.156Z'
+datePublished: '2017-05-30T08:18:53.021Z'
 title: 'Come Partecipare a #ProgettoLAgo'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-05-30-come-partecipare-a-progettolago.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-30T08:17:56.008Z'
-sourcePath: _posts/2017-05-30-come-partecipare-a-progettolago.md
-_type: Blurb
+url: come-partecipare-a-progettolago/index.html
+_type: Article
 
 ---
 # Come Partecipare a \#ProgettoLAgo
