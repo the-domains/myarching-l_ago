@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-09T10:28:50.015Z'
-datePublished: '2017-07-09T10:28:51.193Z'
+dateModified: '2017-07-09T10:30:24.018Z'
+datePublished: '2017-07-09T10:30:41.790Z'
 title: Il Calendario del Piano
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: le-fasi-di-attuazione/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2a0a1dd-fc2c-4504-9765-ac410852fe5f.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e122ca96c1ace9d00ce34139a57faeba/croprotate.jpg?cropheight=4656&cropwidth=2619&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe2a0a1dd-fc2c-4504-9765-ac410852fe5f.jpg&x=0&y=0)
 
 # Il Calendario del Piano
 
