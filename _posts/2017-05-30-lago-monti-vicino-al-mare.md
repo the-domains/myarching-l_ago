@@ -1,19 +1,38 @@
 ---
-title: ''
-datePublished: '2017-07-09T09:49:10.171Z'
-dateModified: '2017-07-09T09:49:07.148Z'
+title: Fonti di finanziamento e bandi internazionali.
+datePublished: '2017-07-09T10:12:38.934Z'
+dateModified: '2017-07-09T10:12:36.760Z'
 publisher:
   name: M. LUSETTI
 author: []
 inFeed: true
-description: ''
+description: >-
+  Fra le varie possibilità che abbiamo di trovare fonti di finanziamento per
+  fare in modo che il progetto di valorizzazione di L’Ago a fini turistici e
+  sociali sia operativo in breve tempo, interessante è quella che AirBNB sta
+  promuovendo in questi giorni. Ci sono 5 milioni di Euro a disposizione di
+  progetti e start up. Per attivare questa iniziativa e trovare altri modi
+  interessanti di mettere a reddito le proprie abitazioni sarebbe anche
+  opportuno costituire un  Home Sharing Club #ProgettoLAgo che aiuterebbe anche
+  a trovare i finanziamenti per le ristrutturazioni degli immobili e sarebbe un
+  ulteriore addendum per la vendita delle quote abitative a finnaziatori o
+  persone interessate a possedere una intera abitazione da mettere a reddito e
+  utilizzare personalmente per alcuni periodi dell’anno in L’Ago.
 via: {}
+sourcePath: _posts/2017-05-30-lago-monti-vicino-al-mare.md
 starred: false
 datePublishedOriginal: '2017-05-30T08:29:19.280Z'
-sourcePath: _posts/2017-05-30-lago-monti-vicino-al-mare.md
 _type: Blurb
 
 ---
-[AIRBNB e \#ProgettoLAgo][0]
+# Fonti di finanziamento e bandi internazionali.
+
+Fra le varie possibilità che abbiamo di trovare fonti di finanziamento per fare in modo che il progetto di valorizzazione di L'Ago a fini turistici e sociali sia operativo in breve tempo, interessante è quella che AirBNB sta promuovendo in questi giorni. Ci sono 5 milioni di Euro a disposizione di progetti e start up. Per attivare questa iniziativa e trovare altri modi interessanti di mettere a reddito le proprie abitazioni sarebbe anche opportuno costituire un Home Sharing Club \#ProgettoLAgo che aiuterebbe anche a trovare i finanziamenti per le ristrutturazioni degli immobili e sarebbe un ulteriore addendum per la vendita delle quote abitative a finnaziatori o persone interessate a possedere una intera abitazione da mettere a reddito e utilizzare personalmente per alcuni periodi dell'anno in L'Ago.
+
+Qui sotto il link alla call to action per proporre \#ProgettoLAgo ai finanziatori AiRBNB per il **Community Tourism Programme **
+[AIRBNB: "call to action" ][0]
+
+Qui sotto invece il link alle FAQ che rispondono a cosa servono e come si costituiscono gli "Home Sharing Club" [HOME SHARING CLUBS][1]
 
 [0]: https://drive.google.com/open?id=0B6AADGyQrB9eRXNuSTFpNTFMMkU
+[1]: https://drive.google.com/open?id=0B6AADGyQrB9edU12YVItbXUza28
