@@ -4,18 +4,18 @@ description: >-
   Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su
   Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le
   informazioni che vuoi!
-dateModified: '2017-07-09T10:18:31.186Z'
-datePublished: '2017-07-09T10:18:36.011Z'
+dateModified: '2017-07-09T11:04:29.678Z'
+datePublished: '2017-07-09T11:04:32.292Z'
 title: Lascia un tuo Commento
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJxdkNFqwzAMRX8lCLrHOHGaDrK6Yy_7gv2A6yixmWsZ2Z3J389L3gYCXYlzL0hXt7B-YJPYKLA5xzQJUUppF23wTvTdGnqI6J-rC0lESrmNNr5bxkXt-Gn4OMnPWv9NdeX1Sm1kish5q_OfPdXej_1wGc9Sdq_y3A0vxc3ZqrHroDkk7NqiW21W0F8kNClvHhXciWfkKVDAN_pBXjyVybp5xlAZw-S9C6uCQNDslx0GBTVP-wp_sQ4pasZgNgWZnwi3qzi-cPsF6FNcKQ
 sourcePath: _posts/2017-06-05-dicono-di-noi.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-06T08:41:51.846Z'
-_type: MediaObject
+url: lascia-un-tuo-commento/index.html
+_type: Article
 
 ---
 # Lascia un tuo Commento
