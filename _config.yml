@@ -42,6 +42,9 @@ navigation:
   - name: Fonti di finanziamento
     id: 46e76652-24b9-4553-8d51-827558fcbd8a
     type: content
+  - name: Lascia un commento
+    id: 5c684a3d-9de8-4fa8-bde7-e3448b28da28
+    type: content
 title: 'MyArching #ProgettoLAgo'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
