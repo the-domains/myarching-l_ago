@@ -1,9 +1,8 @@
 ---
 title: Fonti di finanziamento e bandi internazionali.
-datePublished: '2017-07-09T10:36:49.953Z'
-dateModified: '2017-07-09T10:36:47.271Z'
-publisher:
-  name: M. LUSETTI
+datePublished: '2017-07-09T10:46:21.681Z'
+dateModified: '2017-07-09T10:46:19.458Z'
+publisher: {}
 author: []
 inFeed: true
 description: >-
@@ -28,6 +27,7 @@ _type: Blurb
 
 ---
 # Fonti di finanziamento e bandi internazionali.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/802ebc46-312f-4647-929a-f7848f90e2f3.jpg)
 
 Fra le varie possibilità che abbiamo di trovare fonti di finanziamento per fare in modo che il progetto di valorizzazione di L'Ago a fini turistici e sociali sia operativo in breve tempo, interessante è quella che AirBNB sta promuovendo in questi giorni. Ci sono 5 milioni di Euro a disposizione di progetti e start up. Per attivare questa iniziativa e trovare altri modi interessanti di mettere a reddito le proprie abitazioni sarebbe anche opportuno costituire un Home Sharing Club \#ProgettoLAgo che aiuterebbe anche a trovare i finanziamenti per le ristrutturazioni degli immobili e sarebbe un ulteriore addendum per la vendita delle quote abitative a finanziatori o persone interessate a possedere una intera abitazione da mettere a reddito e utilizzare personalmente per alcuni periodi dell'anno in L'Ago. Qui sotto il link alla call to action per proporre \#ProgettoLAgo ai finanziatori AirBNB per il **Community Tourism Programme**
 [AIRBNB: "call to action" ][0]
