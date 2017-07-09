@@ -1,7 +1,7 @@
 ---
 title: Fonti di finanziamento e bandi internazionali.
-datePublished: '2017-07-09T10:46:21.681Z'
-dateModified: '2017-07-09T10:46:19.458Z'
+datePublished: '2017-07-09T11:03:38.496Z'
+dateModified: '2017-07-09T11:03:36.205Z'
 publisher: {}
 author: []
 inFeed: true
@@ -21,9 +21,11 @@ description: >-
   il Community Tourism Programme
 via: {}
 sourcePath: _posts/2017-05-30-lago-monti-vicino-al-mare.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-30T08:29:19.280Z'
-_type: Blurb
+url: fonti-di-finanziamento-e-bandi-internazionali/index.html
+_type: Article
 
 ---
 # Fonti di finanziamento e bandi internazionali.
