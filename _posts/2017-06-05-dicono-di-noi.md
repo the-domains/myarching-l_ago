@@ -4,8 +4,8 @@ description: >-
   Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su
   Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le
   informazioni che vuoi!
-dateModified: '2017-07-09T10:15:40.810Z'
-datePublished: '2017-07-09T10:15:43.055Z'
+dateModified: '2017-07-09T10:18:31.186Z'
+datePublished: '2017-07-09T10:18:36.011Z'
 title: Lascia un tuo Commento
 author: []
 publisher: {}
@@ -19,6 +19,7 @@ _type: MediaObject
 
 ---
 # Lascia un tuo Commento
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a38873d-0199-479d-99db-ac39747b59a1.jpg)
 
 Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le informazioni che vuoi!
 
