@@ -1,9 +1,10 @@
-typography_spectrum: 0.16486706882613794
+layout_spectrum: 0.21663844947841499
+typography_spectrum: 0.6592683838228557
 color:
-  brandStrength: 0.8927133492328743
-  lightness: 0.32749001439457925
-  saturation: 0.5187025472087472
-  rhythmicContrast: 0.6387493578903377
+  brandStrength: 0.9988850527651386
+  lightness: 0.11050461857284576
+  saturation: 0.9167472487992359
+  rhythmicContrast: 0.9356645959329857
   brandColors:
     - '#7282B6'
     - '#FEFEFE'
@@ -11,7 +12,6 @@ color:
     - '#C6DCF5'
     - '#27361B'
 github: true
-layout_spectrum: 0.03871556232185426
 analytics:
   twitter: Ing. Massimiliano Lusetti
 author:
