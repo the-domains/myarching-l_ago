@@ -18,8 +18,8 @@ description: >-
   che finalmente le molte case in vendita e invendute da molto tempo trovino un
   acquirente. Sarebbe… ma cosa manca perchè si possano tramutare in “è” questi
   concetti affinché il proposito si possa realizzare?
-dateModified: '2017-06-06T08:50:28.240Z'
-datePublished: '2017-06-06T08:50:30.787Z'
+dateModified: '2017-07-09T10:56:15.717Z'
+datePublished: '2017-07-09T10:56:17.741Z'
 title: L’aspetto emozionale
 author: []
 publisher: {}
@@ -33,6 +33,7 @@ _type: Article
 
 ---
 # L'aspetto emozionale
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea844278-b40f-4a9e-93d8-1127d8632cf6.jpg)
 
 ## Cosa pensa chi è di casa a L'Ago?
 
