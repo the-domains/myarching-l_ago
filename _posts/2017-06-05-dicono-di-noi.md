@@ -1,9 +1,12 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-06-06T08:41:56.388Z'
-datePublished: '2017-06-06T08:41:58.968Z'
-title: Commenti
+description: >-
+  Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su
+  Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le
+  informazioni che vuoi!
+dateModified: '2017-07-09T10:15:40.810Z'
+datePublished: '2017-07-09T10:15:43.055Z'
+title: Lascia un tuo Commento
 author: []
 publisher: {}
 via: {}
@@ -15,6 +18,8 @@ datePublishedOriginal: '2017-06-06T08:41:51.846Z'
 _type: MediaObject
 
 ---
-# Commenti
+# Lascia un tuo Commento
+
+Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le informazioni che vuoi!
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFrwzAMhe_5FSaDNYHW7gYbbEl6KOzQS0-9jTFcW26dJnawlWxl7L9PaVPYzZI-3pOeS20HZnWVmv0ieI_pqhTUWiVlVMF2uMpM7xRa7zI9Z3FObM5-EsYGGVhNtakjq5jmB8C3BlpwGNfnnTxsZQtZzN-XHwXR1rDsP7M-b3RGUjkLgH1wIzMJqQASYeJIoaABt5pmVl8xHoOiMhVCeedAITdSwd77E3eAwuLnZieiPvE63n2bfdtUD_cDhEhHVMMjf0lHGdqbdzKQx9Zr4NZFCLgG4wNk0115kfxm2qt-3GTOZtdEZvS6-S3qSD6zPC9KMeWVlGOiqpExXkJVvr2EkjItUS6OAUyVHhG7-CpEIw-ed8F35H0WE_JlNR6r9Hm5nBqubzsfkfSebt_zBx-ykOw" height="244" style=""></iframe>
