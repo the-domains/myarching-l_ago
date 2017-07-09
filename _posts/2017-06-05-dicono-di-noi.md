@@ -4,21 +4,21 @@ description: >-
   Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su
   Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le
   informazioni che vuoi!
-dateModified: '2017-07-09T11:04:29.678Z'
-datePublished: '2017-07-09T11:04:32.292Z'
-title: Lascia un tuo Commento
+dateModified: '2017-07-09T11:08:48.285Z'
+datePublished: '2017-07-09T11:08:50.489Z'
+title: Lascia un tuo commento
 author: []
 publisher: {}
 via: {}
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJxdkNFqwzAMRX8lCLrHOHGaDrK6Yy_7gv2A6yixmWsZ2Z3J389L3gYCXYlzL0hXt7B-YJPYKLA5xzQJUUppF23wTvTdGnqI6J-rC0lESrmNNr5bxkXt-Gn4OMnPWv9NdeX1Sm1kish5q_OfPdXej_1wGc9Sdq_y3A0vxc3ZqrHroDkk7NqiW21W0F8kNClvHhXciWfkKVDAN_pBXjyVybp5xlAZw-S9C6uCQNDslx0GBTVP-wp_sQ4pasZgNgWZnwi3qzi-cPsF6FNcKQ
 sourcePath: _posts/2017-06-05-dicono-di-noi.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-06T08:41:51.846Z'
-url: lascia-un-tuo-commento/index.html
-_type: Article
+_type: MediaObject
 
 ---
-# Lascia un tuo Commento
+# Lascia un tuo commento
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a38873d-0199-479d-99db-ac39747b59a1.jpg)
 
 Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le informazioni che vuoi!
