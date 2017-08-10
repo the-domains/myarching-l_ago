@@ -1,16 +1,16 @@
 ---
-inFeed: true
-description: ''
-dateModified: '2017-07-09T10:30:24.018Z'
-datePublished: '2017-07-09T10:30:41.790Z'
 title: Il Calendario del Piano
-author: []
+datePublished: '2017-08-10T11:51:23.124Z'
+dateModified: '2017-08-10T11:50:31.622Z'
 publisher: {}
-via: {}
-sourcePath: _posts/2017-05-28-fasi-del-planning.md
+author: []
+inFeed: true
 hasPage: true
+description: ''
+via: {}
 starred: false
 datePublishedOriginal: '2017-05-28T21:19:20.013Z'
+sourcePath: _posts/2017-05-28-fasi-del-planning.md
 url: le-fasi-di-attuazione/index.html
 _type: Article
 
@@ -20,6 +20,7 @@ _type: Article
 # Il Calendario del Piano
 
 * preadesione proprietari immobiliari: 1 giugno 2017 - 30 luglio 2017
+* Prima Riunione Proprietari 11/08 
 * avvio della fase di standardizzazione progetto e controllo proprietà: 1 luglio - 31 agosto 2017
 * abbinamento progettisti - edifici 1 settembre - 15 settembre 2017
 * avvio della fase di rilievo e progettazione 16 settembre - 16 ottobre 2017
