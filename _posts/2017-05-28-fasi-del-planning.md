@@ -1,7 +1,7 @@
 ---
 title: Il Calendario del Piano
-datePublished: '2017-08-10T11:51:23.124Z'
-dateModified: '2017-08-10T11:50:31.622Z'
+datePublished: '2017-08-10T11:59:54.006Z'
+dateModified: '2017-08-10T11:59:45.184Z'
 publisher: {}
 author: []
 inFeed: true
@@ -20,10 +20,12 @@ _type: Article
 # Il Calendario del Piano
 
 * preadesione proprietari immobiliari: 1 giugno 2017 - 30 luglio 2017
-* Prima Riunione Proprietari 11/08 
+* [Prima Riunione Proprietari 11/08][0]
 * avvio della fase di standardizzazione progetto e controllo proprietà: 1 luglio - 31 agosto 2017
 * abbinamento progettisti - edifici 1 settembre - 15 settembre 2017
 * avvio della fase di rilievo e progettazione 16 settembre - 16 ottobre 2017
 * progettazione e preventivi - creazione portafoglio immobiliare - valutazione valore immobili 17 Ottobre - 17 Novembre
 * pubblicazione portafoglio immobiliare per la vendita e il crowd funding - costruzione del sito per la vendita 18 Novembre - 31 dicembre 2017
 * Attivazione promozione immobiliare verso investitori e potenziali acquirenti e report sui risultati di vendita a partire da 1 gennaio 2018\.
+
+[0]: https://m.facebook.com/events/109359109749226?view=permalink&id=109359116415892 "Evento"
