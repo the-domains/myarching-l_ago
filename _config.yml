@@ -1,4 +1,3 @@
-layout_spectrum: 0.21663844947841499
 typography_spectrum: 0.6592683838228557
 color:
   brandStrength: 0.9988850527651386
@@ -12,6 +11,7 @@ color:
     - '#C6DCF5'
     - '#27361B'
 github: true
+layout_spectrum: 0.21663844947841499
 analytics:
   twitter: Ing. Massimiliano Lusetti
 author:
@@ -45,6 +45,9 @@ navigation:
     type: content
   - name: Lascia un tuo commento
     id: 5c684a3d-9de8-4fa8-bde7-e3448b28da28
+    type: content
+  - name: Il nostro Blog
+    id: 26b3178d-8ac5-4ee1-af47-91317dae5627
     type: content
 title: 'MyArching #ProgettoLAgo'
 content:
