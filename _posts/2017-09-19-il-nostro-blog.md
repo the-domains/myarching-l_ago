@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Le informazioni in tempo reale sullo sviluppo dell’iniziativa:'
-dateModified: '2017-09-19T09:13:08.404Z'
-datePublished: '2017-09-19T09:13:10.706Z'
+dateModified: '2017-09-19T09:16:42.502Z'
+datePublished: '2017-09-19T09:16:43.347Z'
 title: Il Nostro Blog
 author: []
 publisher: {}
