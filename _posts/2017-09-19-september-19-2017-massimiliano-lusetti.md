@@ -1,16 +1,18 @@
 ---
 inFeed: true
-description: 'September 19, 2017   Massimiliano Lusetti'
-dateModified: '2017-09-19T08:52:28.400Z'
-datePublished: '2017-09-19T08:52:28.533Z'
-title: ''
+description: 'September 19, 2017 Massimiliano Lusetti'
+dateModified: '2017-09-19T09:10:15.414Z'
+datePublished: '2017-09-19T09:10:17.797Z'
+title: 'Meeting #ProgettoLAgo'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-09-19-september-19-2017-massimiliano-lusetti.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-19T08:52:09.567Z'
-_type: Blurb
+url: meeting-progettolago/index.html
+_type: Article
 
 ---
 # **Meeting \#ProgettoLAgo**
@@ -24,7 +26,7 @@ Intanto siamo già attivi sulla fase preliminare e il lavoro in queste due setti
 
 **Il treno di \#ProgettoLAgo sta per partire, Salite in carrozza!**
 
-LA PROSSIMA FERMATA per partecipare come progettista si effettua sempre a L'Ago il weekend del ,30 settembre / 1 ottobre; E' necessario che chi intenda collaborare a tale progetto sia  stato almeno una volta a L'Ago e ne abbia assaporato le sensazioni. Inoltre è richiesta l'adesione all'associazione Archingstudio di tutti i professionisti  poiché si adopereranno strumenti di gestione e comunicazioni messi a disposizione dall'associazione stessa.
+LA PROSSIMA FERMATA per partecipare come progettista si effettua sempre a L'Ago il weekend del ,30 settembre / 1 ottobre; E' necessario che chi intenda collaborare a tale progetto sia stato almeno una volta a L'Ago e ne abbia assaporato le sensazioni. Inoltre è richiesta l'adesione all'associazione Archingstudio di tutti i professionisti poiché si adopereranno strumenti di gestione e comunicazioni messi a disposizione dall'associazione stessa.
 
 Più dettagliate informazioni sui temi e obiettivi dell'incontro saranno trasmessi in tempo. ai partecipanti.
 
