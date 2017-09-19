@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-19T09:33:58.048Z'
-datePublished: '2017-09-19T09:34:00.338Z'
+dateModified: '2017-09-19T09:36:57.336Z'
+datePublished: '2017-09-19T09:36:59.979Z'
 title: Il Nostro Blog
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Blurb
 
 ### [Esempi servizi turistici integrati][2]
 
-### [Esempio di campagna Crowfunding][3]
+### [Esempi: Campagna & Crowdfunding][3]
 
 [0]: http://lago.property/meeting-progettolago
 [1]: http://lago.property/esempi-turismo-nei-borghi
