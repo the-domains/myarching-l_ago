@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Le informazioni in tempo reale sullo sviluppo dell’iniziativa:'
-dateModified: '2017-09-19T09:21:32.464Z'
-datePublished: '2017-09-19T09:21:34.782Z'
+dateModified: '2017-09-19T09:22:10.141Z'
+datePublished: '2017-09-19T09:22:10.470Z'
 title: Il Nostro Blog
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-19-il-nostro-blog.md
 starred: false
 datePublishedOriginal: '2017-09-19T09:21:26.699Z'
-sourcePath: _posts/2017-09-19-il-nostro-blog.md
 _type: Blurb
 
 ---
