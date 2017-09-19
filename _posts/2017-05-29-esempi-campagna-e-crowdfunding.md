@@ -20,8 +20,8 @@ description: >-
   della campagna a casa propria.
 app_links: []
 title: 'Esempi: Campagna e Crowdfunding'
-datePublished: '2017-09-19T09:16:43.353Z'
-dateModified: '2017-09-19T09:16:42.502Z'
+datePublished: '2017-09-19T09:22:10.470Z'
+dateModified: '2017-09-19T09:22:10.141Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-29-esempi-campagna-e-crowdfunding.md
