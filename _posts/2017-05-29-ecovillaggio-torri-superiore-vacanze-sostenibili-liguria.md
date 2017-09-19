@@ -14,10 +14,10 @@ description: >-
   positivo e di crescita sostenibile.
 app_links: []
 title: 'Esempi: Turismo nei borghi'
-datePublished: '2017-09-19T10:25:24.567Z'
-dateModified: '2017-09-19T10:25:24.231Z'
+datePublished: '2017-09-19T10:27:01.745Z'
+dateModified: '2017-09-19T10:26:59.645Z'
 via: {}
-inFeed: true
+inFeed: false
 sourcePath: _posts/2017-05-29-ecovillaggio-torri-superiore-vacanze-sostenibili-liguria.md
 hasPage: true
 starred: false
