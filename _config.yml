@@ -46,6 +46,9 @@ navigation:
   - name: Lascia un tuo commento
     id: 5c684a3d-9de8-4fa8-bde7-e3448b28da28
     type: content
+  - name: Blog
+    id: 26b3178d-8ac5-4ee1-af47-91317dae5627
+    type: content
 title: 'MyArching #ProgettoLAgo'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
