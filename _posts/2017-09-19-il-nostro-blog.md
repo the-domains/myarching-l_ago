@@ -1,18 +1,16 @@
 ---
 inFeed: true
 description: 'Le informazioni in tempo reale sullo sviluppo dell’iniziativa:'
-dateModified: '2017-09-19T09:16:42.502Z'
-datePublished: '2017-09-19T09:16:43.347Z'
+dateModified: '2017-09-19T09:21:32.464Z'
+datePublished: '2017-09-19T09:21:34.782Z'
 title: Il Nostro Blog
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2017-09-19-il-nostro-blog.md
-hasPage: true
 starred: false
-datePublishedOriginal: '2017-09-19T09:11:58.726Z'
-url: il-nostro-blog/index.html
-_type: Article
+datePublishedOriginal: '2017-09-19T09:21:26.699Z'
+sourcePath: _posts/2017-09-19-il-nostro-blog.md
+_type: Blurb
 
 ---
 # Il Nostro Blog
@@ -20,4 +18,12 @@ _type: Article
 
 Le informazioni in tempo reale sullo sviluppo dell'iniziativa:
 
-## Il meeting dei Professionisti e la presentazione alla comunità
+### [Il meeting dei Professionisti e la presentazione alla comunità][0]
+
+### [Esempi di turismo nei borghi][1]
+
+### [Esempio di campagna Crowfunding][2]
+
+[0]: http://lago.property/meeting-progettolago
+[1]: http://lago.property/esempi-turismo-nei-borghi
+[2]: http://lago.property/esempi-campagna-e-crowdfunding
