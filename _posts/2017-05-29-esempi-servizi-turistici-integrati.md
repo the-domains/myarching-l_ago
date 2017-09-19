@@ -18,15 +18,16 @@ description: >-
   possibile trarre indicazioni interessanti sui servizi che si possono integrare
   nell’ospitalità diffusa e che anche in L’Ago possono trovare applicazione.
 app_links: []
-isBasedOnUrl: 'http://www.agriturismoilfilodipaglia.it/index.asp'
 title: 'Esempi: Servizi turistici integrati'
-datePublished: '2017-05-29T21:09:08.649Z'
-dateModified: '2017-05-29T21:08:52.314Z'
+datePublished: '2017-09-19T09:11:25.471Z'
+dateModified: '2017-09-19T09:11:21.719Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-05-29-esempi-servizi-turistici-integrati.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-29T21:09:08.649Z'
-sourcePath: _posts/2017-05-29-esempi-servizi-turistici-integrati.md
+url: esempi-servizi-turistici-integrati/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -35,4 +36,4 @@ _type: MediaObject
 
 Nell'alta Val di Vara un altro esempio avanzato di come interpretare la voglia di natura e serenità sempre più crescente.Ancheda questa esperienza è possibile trarre indicazioni interessanti sui servizi che si possono integrare nell'ospitalità diffusa e che anche in L'Ago possono trovare applicazione.
 
-<article style=""><img src="http://www.agriturismoilfilodipaglia.it/easyUp/image/dscf5082y6tq.jpg" /><h1>Agriturismo Il Filo di Paglia Agriturismo biologico | b&amp;b ecosostenibile | Ristorante biologico Liguria </h1><p>Un esempio di ecosostenibilità e innovazione e organizzazione.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/04ce279a287cc684c26c174631e7e582/noop.jpg?input=http%3A%2F%2Fwww.agriturismoilfilodipaglia.it%2FeasyUp%2Fimage%2Fdscf5082y6tq.jpg" /><h1>Agriturismo Il Filo di Paglia Agriturismo biologico | b&amp;b ecosostenibile | Ristorante biologico Liguria </h1><p>Un esempio di ecosostenibilità e innovazione e organizzazione.</p></article>
