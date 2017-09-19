@@ -49,6 +49,9 @@ navigation:
   - name: Il nostro Blog
     id: 26b3178d-8ac5-4ee1-af47-91317dae5627
     type: content
+  - name: Blog
+    id: a0575a81-5f3a-4b96-b8e7-56cba4fa651d
+    type: content
 title: 'MyArching #ProgettoLAgo'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
