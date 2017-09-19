@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: 'September 19, 2017 Massimiliano Lusetti'
-dateModified: '2017-09-19T10:25:24.231Z'
-datePublished: '2017-09-19T10:25:24.570Z'
+dateModified: '2017-09-19T10:26:26.339Z'
+datePublished: '2017-09-19T10:26:28.446Z'
 title: 'Meeting #ProgettoLAgo'
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-19T08:52:09.567Z'
 url: meeting-progettolago/index.html
-_type: Article
+_type: Blurb
 
 ---
 # **Meeting \#ProgettoLAgo**
