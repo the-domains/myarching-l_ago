@@ -1,16 +1,16 @@
 ---
 title: Il Calendario del Piano
-datePublished: '2017-08-10T11:59:54.006Z'
-dateModified: '2017-08-10T11:59:45.184Z'
+datePublished: '2017-09-19T09:16:43.352Z'
+dateModified: '2017-09-19T09:16:42.502Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: ''
 via: {}
+sourcePath: _posts/2017-05-28-fasi-del-planning.md
 starred: false
 datePublishedOriginal: '2017-05-28T21:19:20.013Z'
-sourcePath: _posts/2017-05-28-fasi-del-planning.md
 url: le-fasi-di-attuazione/index.html
 _type: Article
 
