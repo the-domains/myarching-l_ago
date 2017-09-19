@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'September 19, 2017 Massimiliano Lusetti'
-dateModified: '2017-09-19T09:22:10.141Z'
-datePublished: '2017-09-19T09:22:10.462Z'
+dateModified: '2017-09-19T10:25:24.231Z'
+datePublished: '2017-09-19T10:25:24.570Z'
 title: 'Meeting #ProgettoLAgo'
 author: []
 publisher: {}
