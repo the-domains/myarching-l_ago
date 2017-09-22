@@ -18,8 +18,8 @@ description: >-
   che finalmente le molte case in vendita e invendute da molto tempo trovino un
   acquirente. Sarebbe… ma cosa manca perchè si possano tramutare in “è” questi
   concetti affinché il proposito si possa realizzare?
-dateModified: '2017-09-19T09:16:42.502Z'
-datePublished: '2017-09-19T09:16:43.122Z'
+dateModified: '2017-09-22T09:17:25.496Z'
+datePublished: '2017-09-22T09:17:26.242Z'
 title: L’aspetto emozionale
 author: []
 publisher: {}
