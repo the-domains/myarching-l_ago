@@ -1,16 +1,16 @@
 ---
 title: Il Nostro Blog
-datePublished: '2017-09-22T09:16:41.421Z'
-dateModified: '2017-09-22T09:16:39.060Z'
+datePublished: '2017-09-22T09:17:26.260Z'
+dateModified: '2017-09-22T09:17:25.496Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: ''
 via: {}
+sourcePath: _posts/2017-09-19-il-nostro-blog.md
 starred: false
 datePublishedOriginal: '2017-09-19T09:21:26.699Z'
-sourcePath: _posts/2017-09-19-il-nostro-blog.md
 url: il-nostro-blog/index.html
 _type: Article
 
