@@ -1,7 +1,7 @@
 ---
 title: Il Nostro Blog
-datePublished: '2017-09-22T09:17:26.260Z'
-dateModified: '2017-09-22T09:17:25.496Z'
+datePublished: '2017-09-22T10:31:49.472Z'
+dateModified: '2017-09-22T10:31:47.420Z'
 publisher: {}
 author: []
 inFeed: true
@@ -19,18 +19,16 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec211a49-7274-4944-8766-011c7768b8de.gif)
 
 ## Le informazioni in tempo reale sullo sviluppo dell'iniziativa:
+[Riuso: Filosofia di \#ProgettoLAgo][0]
 
 ### Filosofia del Riuso
+[Meeting Professionisti 15 / 16 09][1]
+[Esempi: turismo nei borghi][2]
+[Esempi: Servizi turistici integrati][3]
+[Esempi: Campagna & Crowdfunding][4]
 
-### [Il meeting dei Professionisti e la presentazione alla comunità][0]
-
-### [Esempi di turismo nei borghi][1]
-
-### [Esempi servizi turistici integrati][2]
-
-### [Esempi: Campagna & Crowdfunding][3]
-
-[0]: http://lago.property/meeting-progettolago
-[1]: http://lago.property/esempi-turismo-nei-borghi
-[2]: http://lago.property/esempi-servizi-turistici-integrati
-[3]: http://lago.property/esempi-campagna-e-crowdfunding
+[0]: http://lago.property/riuso-filosofia-di-progettolago
+[1]: http://lago.property/meeting-progettolago
+[2]: http://lago.property/esempi-turismo-nei-borghi
+[3]: http://lago.property/esempi-servizi-turistici-integrati
+[4]: http://lago.property/esempi-campagna-e-crowdfunding
