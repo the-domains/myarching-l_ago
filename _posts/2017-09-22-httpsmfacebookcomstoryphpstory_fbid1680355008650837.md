@@ -1,7 +1,7 @@
 ---
 title: 'Riuso - Filosofia di #ProgettoLAgo'
-datePublished: '2017-09-22T09:07:50.667Z'
-dateModified: '2017-09-22T09:07:50.496Z'
+datePublished: '2017-09-22T09:17:01.787Z'
+dateModified: '2017-09-22T09:16:57.439Z'
 publisher:
   name: Stefania MIrandola Architetto
   url: 'http://www.studioecoarch.it/StefaniaMirandola.asp'
@@ -27,9 +27,10 @@ description: >-
   voi:)#nonsibuttavianiente#restyling#recupero#rifiutizero”
 via: {}
 sourcePath: _posts/2017-09-22-httpsmfacebookcomstoryphpstory_fbid1680355008650837.md
-isBasedOnUrl: 'https://www.facebook.com/search/top/?q=stefania%20mirandola%20architetto#'
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-22T00:21:30.354Z'
+url: riuso-filosofia-di-progettolago/index.html
 _type: Article
 _context: 'http://schema.org'
 
