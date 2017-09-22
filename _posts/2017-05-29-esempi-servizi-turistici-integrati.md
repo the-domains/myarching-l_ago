@@ -19,8 +19,8 @@ description: >-
   nell’ospitalità diffusa e che anche in L’Ago possono trovare applicazione.
 app_links: []
 title: 'Esempi: Servizi turistici integrati'
-datePublished: '2017-09-22T09:07:50.692Z'
-dateModified: '2017-09-22T09:07:50.496Z'
+datePublished: '2017-09-22T09:17:26.021Z'
+dateModified: '2017-09-22T09:17:25.496Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-29-esempi-servizi-turistici-integrati.md
