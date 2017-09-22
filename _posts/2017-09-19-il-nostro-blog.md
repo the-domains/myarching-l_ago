@@ -1,16 +1,16 @@
 ---
-inFeed: true
-description: ''
-dateModified: '2017-09-19T10:36:12.572Z'
-datePublished: '2017-09-19T10:36:14.722Z'
 title: Il Nostro Blog
-author: []
+datePublished: '2017-09-22T09:16:41.421Z'
+dateModified: '2017-09-22T09:16:39.060Z'
 publisher: {}
-via: {}
-sourcePath: _posts/2017-09-19-il-nostro-blog.md
+author: []
+inFeed: true
 hasPage: true
+description: ''
+via: {}
 starred: false
 datePublishedOriginal: '2017-09-19T09:21:26.699Z'
+sourcePath: _posts/2017-09-19-il-nostro-blog.md
 url: il-nostro-blog/index.html
 _type: Article
 
@@ -20,14 +20,17 @@ _type: Article
 
 ## Le informazioni in tempo reale sullo sviluppo dell'iniziativa:
 
-### Il meeting dei Professionisti e la presentazione alla comunità
+### Filosofia del Riuso
 
-### [Esempi di turismo nei borghi][0]
+### [Il meeting dei Professionisti e la presentazione alla comunità][0]
 
-### [Esempi servizi turistici integrati][1]
+### [Esempi di turismo nei borghi][1]
 
-### [Esempi: Campagna & Crowdfunding][2]
+### [Esempi servizi turistici integrati][2]
 
-[0]: http://lago.property/esempi-turismo-nei-borghi
-[1]: http://lago.property/esempi-servizi-turistici-integrati
-[2]: http://lago.property/esempi-campagna-e-crowdfunding
+### [Esempi: Campagna & Crowdfunding][3]
+
+[0]: http://lago.property/meeting-progettolago
+[1]: http://lago.property/esempi-turismo-nei-borghi
+[2]: http://lago.property/esempi-servizi-turistici-integrati
+[3]: http://lago.property/esempi-campagna-e-crowdfunding
