@@ -1,12 +1,12 @@
 ---
 title: Il Nostro Blog
-datePublished: '2017-09-23T20:09:51.805Z'
-dateModified: '2017-09-23T20:09:51.612Z'
+datePublished: '2017-09-23T20:15:48.756Z'
+dateModified: '2017-09-23T20:15:46.487Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: ''
+description: Postato il 19/09/2017 di Stefania Mirandola
 via: {}
 sourcePath: _posts/2017-09-19-il-nostro-blog.md
 starred: false
@@ -21,11 +21,19 @@ _type: Article
 ## Le informazioni in tempo reale sullo sviluppo dell'iniziativa:
 [Riuso: Filosofia di \#ProgettoLAgo][0]
 
-### Filosofia del Riuso
+Postato il 19/09/2017 di Stefania Mirandola
 [Meeting Professionisti 15 / 16 09][1]
+
+Postato il 17/09/2017 di Massimiliano Lusetti
 [Esempi: turismo nei borghi][2]
+
+Postato il 20/08/2017 di Massimiliano Lusetti
 [Esempi: Servizi turistici integrati][3]
+
+Postato il 10 /07/2017 di Massimiliano Lusetti
 [Esempi: Campagna & Crowdfunding][4]
+
+Postato il 20/06/2017
 
 [0]: http://lago.property/riuso-filosofia-di-progettolago
 [1]: http://lago.property/meeting-progettolago
