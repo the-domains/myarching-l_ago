@@ -13,8 +13,8 @@ keywords: []
 description: 'La filosofia dell''architettura in #ProgettoLago'
 title: ''
 app_links: []
-datePublished: '2017-10-12T10:47:39.486Z'
-dateModified: '2017-10-12T10:47:37.239Z'
+datePublished: '2017-10-12T10:49:06.615Z'
+dateModified: '2017-10-12T10:49:06.305Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-12-la-filosofia-dellarchitettura-in-progettolago.md
