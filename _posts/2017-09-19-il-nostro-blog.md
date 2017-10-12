@@ -1,12 +1,12 @@
 ---
 title: Il Nostro Blog
-datePublished: '2017-09-23T20:15:48.756Z'
-dateModified: '2017-09-23T20:15:46.487Z'
+datePublished: '2017-10-12T10:45:59.283Z'
+dateModified: '2017-10-12T10:45:57.069Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: Postato il 19/09/2017 di Stefania Mirandola
+description: Postato il 10/10/2017
 via: {}
 sourcePath: _posts/2017-09-19-il-nostro-blog.md
 starred: false
@@ -19,6 +19,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec211a49-7274-4944-8766-011c7768b8de.gif)
 
 ## Le informazioni in tempo reale sullo sviluppo dell'iniziativa:
+
+<button data-role="cta" style="">La filosofia dell'architettura</button>
+
+Postato il 10/10/2017
 [Riuso: Filosofia di \#ProgettoLAgo][0]
 
 Postato il 19/09/2017 di Stefania Mirandola
