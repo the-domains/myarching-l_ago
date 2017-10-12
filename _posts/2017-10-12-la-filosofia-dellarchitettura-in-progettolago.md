@@ -13,14 +13,15 @@ keywords: []
 description: 'La filosofia dell''architettura in #ProgettoLago'
 title: ''
 app_links: []
-isBasedOnUrl: 'https://www.facebook.com/max.lusetti/videos/1493109074105362/'
-datePublished: '2017-10-12T10:43:21.498Z'
-dateModified: '2017-10-12T10:43:19.264Z'
+datePublished: '2017-10-12T10:47:39.486Z'
+dateModified: '2017-10-12T10:47:37.239Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-12-la-filosofia-dellarchitettura-in-progettolago.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-12T10:36:28.517Z'
+url: la-filosofia-dellarchitettura-in-progettolago/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
