@@ -49,6 +49,9 @@ navigation:
   - name: Blog
     id: 26b3178d-8ac5-4ee1-af47-91317dae5627
     type: content
+  - name: Avvio delle firme
+    id: 56b29898-d79c-491a-9d7d-da4f3bb7040f
+    type: content
 title: 'MyArching #ProgettoLAgo'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
