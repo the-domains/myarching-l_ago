@@ -3,19 +3,19 @@ inFeed: true
 description: >-
   Il primo passo da affrontare per valorizzare il vostro immobile è siglare il
   contratto di collaborazione fra professionista e proprietario.
-dateModified: '2017-10-16T10:03:34.150Z'
-datePublished: '2017-10-16T10:03:44.155Z'
+dateModified: '2017-10-16T10:04:45.501Z'
+datePublished: '2017-10-16T10:04:48.033Z'
 title: I SERVIZI PER I PROPRIETARI
 author: []
 publisher:
   name: Massimiliano Lusetti
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJyNkdtKAzEQhu_7FEPuu9EbQekWSsFTi_RC9HLJJtnd0ZxIZt3uG_kevpjZliKKiJAhM4H5__kyi8ZHC0ISeleyjiikK86HYSiCGIMwhfSWyxbnNTo-6DrJyMBq6rwqWfCJGJCIraaSVeQDW84W6EJPQGPQWRCV0o6BEzZX0ioGb8L0Oa_SfC8Nyte_W7psoVVV90TeVfjVf3F_efu02V6vNs-rh58aaEWrGaQof2Py9YuWlA5oSNXdI88HeU1uiuw1Oj-s19X2pmixYVD7qHQs2dlpqNTXFjO5MBl7J8adMPDxDmimn_HKQxQB86Uhoeyjh6AjBNGKqPNbI2LCU-mdQaeLA4Btj4rfHP_NgDzvhgfca3Mce0BFXcnOGXQa246mNNvwaePL2SdQPa1O
+sourcePath: _posts/2017-10-16-i-servizi-per-i-proprietari.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-16T10:03:44.155Z'
-sourcePath: _posts/2017-10-16-i-servizi-per-i-proprietari.md
-_type: MediaObject
+url: i-servizi-per-i-proprietari/index.html
+_type: Article
 
 ---
 ![come contattare il general manager](https://the-grid-user-content.s3-us-west-2.amazonaws.com/add32494-91d3-4f77-89a0-19ce9edc0725.jpg)
