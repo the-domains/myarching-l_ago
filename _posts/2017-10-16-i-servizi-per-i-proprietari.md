@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Il primo passo da affrontare per valorizzare il vostro immobile è siglare il
   contratto di collaborazione fra professionista e proprietario.
-dateModified: '2017-10-16T10:04:45.501Z'
-datePublished: '2017-10-16T10:04:48.033Z'
+dateModified: '2018-02-03T19:33:32.104Z'
+datePublished: '2018-02-03T19:33:34.383Z'
 title: I SERVIZI PER I PROPRIETARI
 author: []
 publisher:
@@ -25,31 +25,38 @@ _type: Article
 ## Per la sigla del contratto
 
 Il primo passo da affrontare per valorizzare il vostro immobile è siglare il contratto di collaborazione fra professionista e proprietario.
+[SCARICA IL TUO CONTRATTO][0]
 
-### Documentazione insufficiente
+Se hai ricevuto per email la valutazione del tuo immobile Allegato 1 puoi stampare la documentazione e compilare il tuo contratto inserendo i tuoi dati personali, quelli degli o dell'immobile ed i valori evidenziati in email relativi alle varie competenze professionali e al valore dell'immobile. Nel documento di delega dovrai inserire i dati degli altri proprietari che ti hanno delegato a rappresentarli per la firma del contratto, (ricordati di fare anche una copia dei documenti di riconoscimento di tutti i comproprietari da allegare alla delega)
 
-Il professionista deve eseguire la stima iniziale dell'immobile e raccogliere tutti i dati preliminari necessari a permettere questa attività. A volte la documentazione che viene prodotta dal proprietario è insufficiente ed è necessario integrarla con nuove visure e mappe catastali aggiornate. Per poter svolgere questa ricerca, ove necessaria, vi sarà inviata una comunicazione via email e telefono, da parte del professionista che segue in questa prima fase il vostro immobile. Per questo servizio di verifica e ricerca catastale è necessario il pagamento di una parcella professionale minima per eseguire tutte le ricerche necessarie al Catasto terreni e Urbano.
+Tu dovrai firmare il contratto e i deleganti il documento di delega con i loro dati ed inviarci il tutto come da istruzioni contenute nella email a mezzo posta celere.
+
+## Documentazione insufficiente
+
+In caso di documentazione insufficiente non saremo stati in grado di chiudere la tua valutazione preliminare e quindi riceverai una email nella quale ti segnaleremo cosa ancora ci manca per chiudere la tua pratica e fornirti la valutazione preliminare.
+
+Per poter svolgere questa ricerca, ove necessaria, vi sarà inviata una comunicazione via email e telefono, da parte del professionista che segue in questa prima fase il vostro immobile. Per questo servizio di verifica e ricerca catastale è necessario il pagamento di una parcella professionale minima per eseguire tutte le ricerche necessarie al Catasto terreni e Urbano.
+
+Se sono emersi nella ricerca problemi di non conformità catastale o urbanistica ve li segnaleremo e preventiveremo anche la spesa per risolvere i problemi ed ottenere nu fabbricato pienamente in regola.
 
 I documenti di delega necessari vi saranno inviati via Email o fax da ritornare firmati con i vostri dati a mezzo posta celere 1 all'indirizzo:
 
 Massimiliano Lusetti Ingegnere
 
-Loc. Crova 1F 
+Loc. Crova 1F
 
 16030 Moneglia GE
 
 Oppure anticipata via Email all'indirizzo segnalato in calce alla comunicazione pervenuta.
 
-Il pagamento del servizio può avvenire tramite bonifico bancario come da istruzioni che vi saranno inviate via email o tramite carta di credito o conto pay-pall utilizzando il pulsante qui sotto. L'importo di questo servizio è 38/oo euro iva e spese catastali incluse. Le planimetrie e gli atti recuperati vi saranno trasmessi assieme alle risultanze ottenute per la valutazione dell'immobile al vostro indirizzo email/fax o consegnate a mano in L'Ago alla firma del contratto di adesione a \#ProgettoLAgo
+Il pagamento del servizio di ricerca catastale può avvenire tramite bonifico bancario come da istruzioni che vi saranno inviate via email o tramite carta di credito o conto pay-pall utilizzando il pulsante qui sotto. L'importo di questo servizio è 38/oo euro iva e spese catastali incluse. Le planimetrie e gli atti recuperati vi saranno trasmessi assieme alle risultanze ottenute per la valutazione dell'immobile al vostro indirizzo email/fax o consegnate a mano in L'Ago alla firma del contratto di adesione a \#ProgettoLAgo
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNkdtKAzEQhu_7FEPuu9EbQekWSsFTi_RC9HLJJtnd0ZxIZt3uG_kevpjZliKKiJAhM4H5__kyi8ZHC0ISeleyjiikK86HYSiCGIMwhfSWyxbnNTo-6DrJyMBq6rwqWfCJGJCIraaSVeQDW84W6EJPQGPQWRCV0o6BEzZX0ioGb8L0Oa_SfC8Nyte_W7psoVVV90TeVfjVf3F_efu02V6vNs-rh58aaEWrGaQof2Py9YuWlA5oSNXdI88HeU1uiuw1Oj-s19X2pmixYVD7qHQs2dlpqNTXFjO5MBl7J8adMPDxDmimn_HKQxQB86Uhoeyjh6AjBNGKqPNbI2LCU-mdQaeLA4Btj4rfHP_NgDzvhgfca3Mce0BFXcnOGXQa246mNNvwaePL2SdQPa1O" height="244" style=""></iframe>
 
-### Contributo Rilievo
+## Contributo di accesso
 
-la redazione della valutazione permette ai professionisti del team MyArchng di valutare anche quali operazioni di rilievo saranno necessarie per il vostro immobile per partire con le progettazioni. Come sapete e come specificato nel contratto quota parte di tale attività è l'unica per la quale viene richiesto ai proprietari un contributo spese iniziali.
-
-L'importo da versare per tale servizio sarà segnalato nel contratto iniziale secondo il tariffario in allegato B e tiene in considerazione vari fattori per agevolare tutti i proprietari
-
-Il pagamento di tale importo è possibile a mezzo bonifico bancario all'indirizzo specificato nel contratto o tramite carta di credito all'atto della stipula del contratto . Il contratto stesso si attiva all'atto del pagamento di tale importo con tutte le successive operazioni professionali.
+Per inserire il vostro immobile in \#ProgettoLAgo è necessario pagare la tariffa di accesso al progetto come segnalato nel contratto. Tale parcella copre le spese iniziali di attivazione del progetto ed è dovuta da tutti i partecipanti ad emissione avviso da parte del General Manger di progetto L'Ago e pagabile entro 30 giorni. ( vedi i termini di contratto)
 
 Per i Proprietari residenti in provincia di La Spezia e Genova saranno organizzati eventi in L'Ago per la stipula del contratto in cui le persone invitate potranno partecipare. Per chi vive fuori la Liguria è possibile prenotare ove disponibile visita di un referente MyArching per la provincia o regione in modo da agevolare in modo veloce e comodo per il proprietario la stipula del contratto.
+
+[0]: https://1drv.ms/f/s!AtM02Wu_Fo4oiTjNNekkJYJ13TLt
