@@ -7,8 +7,8 @@ description: >-
   stessi dopo un’operazione di restauro o riconversione) ti chiediamo di
   compilare il modulo di preadesione proprietari che si trova in alto nella home
   page o qui sotto. Ti servono i seguenti dati:
-dateModified: '2018-02-03T18:10:56.882Z'
-datePublished: '2018-02-03T18:10:59.126Z'
+dateModified: '2018-02-03T18:12:24.165Z'
+datePublished: '2018-02-03T18:12:26.245Z'
 title: 'Come Partecipare a #ProgettoLAgo'
 author: []
 publisher: {}
@@ -64,7 +64,7 @@ Il Professionista ed il suo staff partecipano come investitori al progetto e qui
 
 ## Hai una proprietà già ristrutturata.
 
-In tal caso potresti proporre la tua proprietà per partecipare al sistema di accoglienza diffusa prevista per \#ProgettoLAgo. Una volta definiti dal Business plan generale i requisti e gli standard estetico funzionali degli immobili valuteremo la tua proprietà per verificare la necessità di eventuali lavori per adeguarsi agli standard definiti a progetto L'inserimento della proprietà nel sistema di accoglienza diffusa . Se già gestisci un B&B o un appartamento per vacanza potrai delegare l'attività gestionale di accoglienza e pulizia all'organizzazione che gestirà l'accoglienza di borgo e a te resterà solo il compito di raccogliere il reddito che il tuo investimento immobiliare produce. A te definire per quanto tempo mettere a disposizione l'immobile per l'attività turistica e quanto tempo dedicarlo al tuo uso personale. Il tuo immobile sarà pienamente integrato assieme agli altri immobili messi in vendita ristrutturati o migliorati dagli attuali prorpeitari che stanno partecipando alla prima fase di \#ProgettoLAgo. Il progettodi accoglienza diffusa intende avviarsi sin da questa primavera quindi affrettati a contattarci per avere maggiori dettagli.
+In tal caso potresti proporre la tua proprietà per partecipare al sistema di accoglienza diffusa prevista per \#ProgettoLAgo. Una volta definiti dal Business plan generale i requisti e gli standard estetico funzionali degli immobili valuteremo la tua proprietà per verificare la necessità di eventuali lavori per adeguarsi agli standard definiti a progetto L'inserimento della proprietà nel sistema di accoglienza diffusa . Se già gestisci un B&B o un appartamento per vacanza potrai delegare l'attività gestionale di accoglienza e pulizia all'organizzazione che gestirà l'accoglienza di borgo e a te resterà solo il compito di raccogliere il reddito che il tuo investimento immobiliare produce. A te definire per quanto tempo mettere a disposizione l'immobile per l'attività turistica e quanto tempo dedicarlo al tuo uso personale. Il tuo immobile sarà pienamente integrato assieme agli altri immobili messi in vendita ristrutturati o migliorati dagli attuali prorpeitari che stanno partecipando alla prima fase di \#ProgettoLAgo. Il progetto di accoglienza diffusa intende avviarsi sin da questa primavera 2018 quindi affrettati a contattarci per avere maggiori dettagli. puoi utilizzare sempre il modulo di preadesione proprietari per segnalare la tua volontà di approfondire la proposta come host. 
 
 ## Ti interessa lavorare nell'indotto.
 
