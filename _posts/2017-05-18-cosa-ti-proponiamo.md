@@ -1,25 +1,29 @@
 ---
 inFeed: true
 description: >-
-  L’Ago, lo conosci e ci stiamo rivolgendo a te, che questo borgo lo hai vissuto
-  e amato e continui a farlo; lo scopo di noi tutti, Tu compreso, che sei
-  arrivato qui in questa pagina, è di fare in modo che questo bell’esempio di
-  vita sociale e tesori della tradizione amalgamati da una architettura
-  contadina orgogliosa e semplice, possa proseguire a vivere in armonia nel
-  futuro e nella natura. Sarebbe bello poter portare più vita a L’Ago, persone
-  che lo vivano e che lo possano scoprire, rispettando la sua tradizione, le sue
-  forme e i suoi tempi, restaurare i molti immobili attualmente senza una
-  destinazione, ridare nuova vita all’impianto urbano esistente. Sarebbe bello
-  se i giovani, e i meno giovani, la comunità tutta che ancora vive a L’Ago, o
-  lo vive durante il periodo estivo, potesse trovare una fonte di reddito e
-  lavoro proprio nel paese che ama. Sarebbe bello se si potessero restaurare gli
-  immobili e aumentare il loro valore senza dover impegnare i risparmi ma si
-  potesse gestire l’investimento necessario in modo intelligente facendo in modo
-  che finalmente le molte case in vendita e invendute da molto tempo trovino un
-  acquirente. Sarebbe… ma cosa manca perchè si possano tramutare in “è” questi
-  concetti affinché il proposito si possa realizzare?
-dateModified: '2018-02-03T18:25:35.911Z'
-datePublished: '2018-02-03T18:25:38.241Z'
+  L’Ago, o lo conosci perché in questo borgo ci hai vissuto, lo hai amato e
+  continui a farlo oppure è assai difficile che sia un paese noto. Lo scopo di
+  noi tutti, Tu compreso, che sei arrivato qui in questa pagina, è di fare in
+  modo che questo bell’esempio di vita sociale e tesori della tradizione
+  amalgamati da una architettura contadina orgogliosa e semplice, possa
+  proseguire a vivere in armonia nel futuro e nella natura. Sarebbe bello poter
+  portare più vita a L’Ago, ma senza stravolgerne tempi e ritmi perché sono
+  quelli che ne scandiscono la differenza con i luoghi più affollati.  Vorremmo
+  portare persone che lo vivano e che lo possano scoprire, rispettando la sua
+  tradizione, le sue forme e i suoi tempi, restaurare i molti immobili
+  attualmente senza una destinazione, per ridare nuova vita all’impianto urbano
+  esistente. Sarebbe bello se i giovani, e i meno giovani, la comunità tutta che
+  ancora vive a L’Ago, o lo vive durante il periodo estivo, potesse trovare una
+  fonte di reddito e lavoro proprio nel paese che ama. Sarebbe bello se si
+  potessero restaurare gli immobili e aumentare il loro valore senza dover
+  impegnare i risparmi ma si potesse gestire l’investimento necessario in modo
+  intelligente, facendo in modo che finalmente le molte case in vendita e
+  invendute da molto tempo trovino un acquirente. Sarebbe… ma cosa manca perché
+  si possano tramutare in “è” questi concetti affinché il proposito si possa
+  realizzare? E’ quello a cui cerca di rispondere il progetto proposto da
+  MyArchig.
+dateModified: '2018-02-03T18:31:10.729Z'
+datePublished: '2018-02-03T18:31:13.111Z'
 title: L’aspetto emozionale
 author: []
 publisher: {}
@@ -35,9 +39,9 @@ _type: Article
 # L'aspetto emozionale
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/617617306e3098b65c5a6ed744f8a7cbc5871e03.jpg)
 
-## Cosa pensa chi è di casa a L'Ago?
+## Dove collochiamo L'Ago?
 
-L'Ago, lo conosci e ci stiamo rivolgendo a te, che questo borgo lo hai vissuto e amato e continui a farlo; lo scopo di noi tutti, Tu compreso, che sei arrivato qui in questa pagina, è di fare in modo che questo bell'esempio di vita sociale e tesori della tradizione amalgamati da una architettura contadina orgogliosa e semplice, possa proseguire a vivere in armonia nel futuro e nella natura. Sarebbe bello poter portare più vita a L'Ago, persone che lo vivano e che lo possano scoprire, rispettando la sua tradizione, le sue forme e i suoi tempi, restaurare i molti immobili attualmente senza una destinazione, ridare nuova vita all'impianto urbano esistente. Sarebbe bello se i giovani, e i meno giovani, la comunità tutta che ancora vive a L'Ago, o lo vive durante il periodo estivo, potesse trovare una fonte di reddito e lavoro proprio nel paese che ama. Sarebbe bello se si potessero restaurare gli immobili e aumentare il loro valore senza dover impegnare i risparmi ma si potesse gestire l'investimento necessario in modo intelligente facendo in modo che finalmente le molte case in vendita e invendute da molto tempo trovino un acquirente. Sarebbe... ma cosa manca perchè si possano tramutare in "è" questi concetti affinché il proposito si possa realizzare?
+L'Ago, o lo conosci perché in questo borgo ci hai vissuto, lo hai amato e continui a farlo oppure è assai difficile che sia un paese noto. Lo scopo di noi tutti, Tu compreso, che sei arrivato qui in questa pagina, è di fare in modo che questo bell'esempio di vita sociale e tesori della tradizione amalgamati da una architettura contadina orgogliosa e semplice, possa proseguire a vivere in armonia nel futuro e nella natura. Sarebbe bello poter portare più vita a L'Ago, ma senza stravolgerne tempi e ritmi perché sono quelli che ne scandiscono la differenza con i luoghi più affollati. Vorremmo portare persone che lo vivano e che lo possano scoprire, rispettando la sua tradizione, le sue forme e i suoi tempi, restaurare i molti immobili attualmente senza una destinazione, per ridare nuova vita all'impianto urbano esistente. Sarebbe bello se i giovani, e i meno giovani, la comunità tutta che ancora vive a L'Ago, o lo vive durante il periodo estivo, potesse trovare una fonte di reddito e lavoro proprio nel paese che ama. Sarebbe bello se si potessero restaurare gli immobili e aumentare il loro valore senza dover impegnare i risparmi ma si potesse gestire l'investimento necessario in modo intelligente, facendo in modo che finalmente le molte case in vendita e invendute da molto tempo trovino un acquirente. Sarebbe... ma cosa manca perché si possano tramutare in "è" questi concetti affinché il proposito si possa realizzare? E' quello a cui cerca di rispondere il progetto proposto da MyArchig.
 
 ## Cosa ti propone lo Staff MyArching?
 
