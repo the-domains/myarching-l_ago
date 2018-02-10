@@ -7,8 +7,8 @@ description: >-
   stessi dopo un’operazione di restauro o riconversione) ti chiediamo di
   compilare il modulo di preadesione proprietari che si trova in alto nella home
   page o qui sotto. Ti servono i seguenti dati:
-dateModified: '2018-02-03T18:12:24.165Z'
-datePublished: '2018-02-03T18:12:26.245Z'
+dateModified: '2018-02-10T11:26:13.723Z'
+datePublished: '2018-02-10T11:26:14.250Z'
 title: 'Come Partecipare a #ProgettoLAgo'
 author: []
 publisher: {}
