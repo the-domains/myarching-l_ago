@@ -50,8 +50,8 @@ description: >-
   di albergo diffuso che possa quindi gestire il complesso di immobili in modo
   da renderlo produttivo ed un fattore di reddito per i proprietari e l'intera
   comunità.
-dateModified: '2018-02-10T11:26:13.723Z'
-datePublished: '2018-02-10T11:26:14.249Z'
+dateModified: '2018-02-10T11:35:30.107Z'
+datePublished: '2018-02-10T11:35:30.869Z'
 title: La visione economica e tecnica
 author:
   - name: Ing. M.Lusetti
