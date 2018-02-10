@@ -22,8 +22,8 @@ description: >-
   si possano tramutare in “è” questi concetti affinché il proposito si possa
   realizzare? E’ quello a cui cerca di rispondere il progetto proposto da
   MyArching.
-dateModified: '2018-02-10T11:26:13.723Z'
-datePublished: '2018-02-10T11:26:14.247Z'
+dateModified: '2018-02-10T11:35:30.107Z'
+datePublished: '2018-02-10T11:35:30.891Z'
 title: L’aspetto emozionale
 author: []
 publisher: {}
