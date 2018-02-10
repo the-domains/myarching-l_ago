@@ -1,7 +1,7 @@
 ---
 title: 'Riuso - Filosofia di #ProgettoLAgo'
-datePublished: '2017-10-12T10:49:06.619Z'
-dateModified: '2017-10-12T10:49:06.305Z'
+datePublished: '2018-02-10T11:25:48.645Z'
+dateModified: '2018-02-10T11:25:48.394Z'
 publisher:
   name: Stefania MIrandola Architetto
   url: 'http://www.studioecoarch.it/StefaniaMirandola.asp'
