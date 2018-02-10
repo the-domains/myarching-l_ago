@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Il primo passo da affrontare per valorizzare il vostro immobile è siglare il
   contratto di collaborazione fra professionista e proprietario.
-dateModified: '2018-02-10T11:13:07.544Z'
-datePublished: '2018-02-10T11:13:09.819Z'
+dateModified: '2018-02-10T11:14:01.882Z'
+datePublished: '2018-02-10T11:14:03.823Z'
 title: I SERVIZI PER I PROPRIETARI
 author: []
 publisher: {}
@@ -38,7 +38,7 @@ Se sono emersi nella ricerca problemi di non conformità catastale o urbanistica
 
 I documenti di delega necessari vi saranno inviati via Email o fax da ritornare firmati con i vostri dati a mezzo posta celere 1 all'indirizzo:
 
-Massimiliano Lusetti Ingegnere
+[Massimiliano Lusetti Ingegnere][1]
 
 Loc. Crova 1F
 
@@ -57,3 +57,4 @@ Per inserire il vostro immobile in \#ProgettoLAgo è necessario pagare la tariff
 Per i Proprietari residenti in provincia di La Spezia e Genova saranno organizzati eventi in L'Ago per la stipula del contratto in cui le persone invitate potranno partecipare. Per chi vive fuori la Liguria è possibile prenotare ove disponibile visita di un referente MyArching per la provincia o regione in modo da agevolare in modo veloce e comodo per il proprietario la stipula del contratto.
 
 [0]: https://1drv.ms/f/s!AtM02Wu_Fo4oiTjNNekkJYJ13TLt
+[1]: https://card.inigoapp.com/i/0E5086A501D6E9B13F3E5C8966BD2833?sh=1458283507
