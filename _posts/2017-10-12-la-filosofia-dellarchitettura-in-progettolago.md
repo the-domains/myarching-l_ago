@@ -4,17 +4,13 @@ author:
     url: 'http://facebook.com/1494427520640184'
     avatar: {}
 related: []
-publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
+publisher: {}
 keywords: []
-description: 'La filosofia dell''architettura in #ProgettoLago'
+description: ''
 title: ''
 app_links: []
-datePublished: '2018-02-10T11:26:14.247Z'
-dateModified: '2018-02-10T11:26:13.723Z'
+datePublished: '2018-02-10T11:34:29.514Z'
+dateModified: '2018-02-10T11:34:27.505Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-12-la-filosofia-dellarchitettura-in-progettolago.md
@@ -26,4 +22,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwFwUsKwyAQANDbdBedGR0dC6FQaK8RjJ-GLjQkUnL8vreNsZ93rc_U2yhtTPUYZkJ1XaquKTfVytA_PQwqmEQTETsBu6ANxNb5AEJC7BcEz4YBjSVAFHTGLV1998-jb7OzxaHFaCUxRKkGs8spRxNqlBXDrZeZn_hmD68_OAEomQ" height="244" style=""></iframe>
+
 > La filosofia dell'architettura in \#ProgettoLago
