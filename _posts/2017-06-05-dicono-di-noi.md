@@ -4,8 +4,8 @@ description: >-
   Vuoi commentare la nostra iniziativa? Vuoi condividerla con altri amici su
   Facebook? lascia qui il tuo commento, saremo lieti di dare le risposte e le
   informazioni che vuoi!
-dateModified: '2018-02-10T11:26:13.723Z'
-datePublished: '2018-02-10T11:26:14.240Z'
+dateModified: '2018-02-10T11:35:30.107Z'
+datePublished: '2018-02-10T11:35:30.890Z'
 title: Lascia un tuo commento
 author: []
 publisher: {}
