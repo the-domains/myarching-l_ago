@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Il primo passo da affrontare per valorizzare il vostro immobile è siglare il
   contratto di collaborazione fra professionista e proprietario.
-dateModified: '2018-02-10T11:22:22.459Z'
-datePublished: '2018-02-10T11:22:24.519Z'
+dateModified: '2018-02-10T11:25:48.394Z'
+datePublished: '2018-02-10T11:25:48.680Z'
 title: I SERVIZI PER I PROPRIETARI
 author: []
 publisher: {}
