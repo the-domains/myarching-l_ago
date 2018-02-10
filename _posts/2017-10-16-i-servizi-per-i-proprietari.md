@@ -3,12 +3,11 @@ inFeed: true
 description: >-
   Il primo passo da affrontare per valorizzare il vostro immobile è siglare il
   contratto di collaborazione fra professionista e proprietario.
-dateModified: '2018-02-08T16:17:53.422Z'
-datePublished: '2018-02-08T16:17:55.769Z'
+dateModified: '2018-02-10T11:13:07.544Z'
+datePublished: '2018-02-10T11:13:09.819Z'
 title: I SERVIZI PER I PROPRIETARI
 author: []
-publisher:
-  name: Massimiliano Lusetti
+publisher: {}
 via: {}
 sourcePath: _posts/2017-10-16-i-servizi-per-i-proprietari.md
 hasPage: true
@@ -18,8 +17,6 @@ url: i-servizi-per-i-proprietari/index.html
 _type: Article
 
 ---
-![come contattare il general manager](https://the-grid-user-content.s3-us-west-2.amazonaws.com/add32494-91d3-4f77-89a0-19ce9edc0725.jpg)
-
 # I SERVIZI PER I PROPRIETARI
 
 ## Per la sigla del contratto
