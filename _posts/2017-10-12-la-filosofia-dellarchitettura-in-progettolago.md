@@ -6,11 +6,12 @@ author:
 related: []
 publisher: {}
 keywords: []
-description: ''
+description: >-
+  https://scontent-frt3-1.xx.fbcdn.net/v/t31.0-8/22256804_1492546790828257_1075350134201181636_o.jpg?oh=64e6141a48c50a8f31d6dcda39fa8b19&oe=5B1F570E
 title: ''
 app_links: []
-datePublished: '2018-02-10T11:35:30.883Z'
-dateModified: '2018-02-10T11:35:30.107Z'
+datePublished: '2018-02-10T11:37:06.667Z'
+dateModified: '2018-02-10T11:37:04.599Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-12-la-filosofia-dellarchitettura-in-progettolago.md
@@ -22,6 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwFwUsKwyAQANDbdBedGR0dC6FQaK8RjJ-GLjQkUnL8vreNsZ93rc_U2yhtTPUYZkJ1XaquKTfVytA_PQwqmEQTETsBu6ANxNb5AEJC7BcEz4YBjSVAFHTGLV1998-jb7OzxaHFaCUxRKkGs8spRxNqlBXDrZeZn_hmD68_OAEomQ" height="244" style=""></iframe>
-
-> La filosofia dell'architettura in \#ProgettoLago
+https://scontent-frt3-1.xx.fbcdn.net/v/t31.0-8/22256804\_1492546790828257\_1075350134201181636\_o.jpg?oh=64e6141a48c50a8f31d6dcda39fa8b19&oe=5B1F570E
