@@ -1,7 +1,7 @@
 ---
 title: Il Calendario del Piano
-datePublished: '2018-02-10T11:35:30.883Z'
-dateModified: '2018-02-10T11:35:30.107Z'
+datePublished: '2018-05-07T00:06:17.885Z'
+dateModified: '2018-05-07T00:06:15.088Z'
 publisher: {}
 author: []
 inFeed: true
@@ -19,15 +19,14 @@ _type: Article
 
 # Il Calendario del Piano
 
-* I tempi previsti si sono dilatati per vari intoppi nel reperimento di tutte le informazioni necessarie ma, nonostante tutto, siamo ora in grado di definire un timing di progetto definitivo visto che ci troviamo all'atto di firma da parte dei primi proprietari dell'adesione al progetto. Nel frattempo abbiamo definito il gruppo progettuale e abbiamo attivato molti contatti in vari campi professionali per essere pronti ad attivare tutte le azioni necessarie a promuovere l'iniziativa a vari livelli.
+* I tempi previsti si sono dilatati per vari intoppi nel reperimento di tutte le informazioni necessarie ma, nonostante tutto, siamo ora in grado di definire un timing di progetto definitivo e dopo la firma dei primi contratti di incarico professionale. Abbiamo definito il gruppo progettuale e abbiamo attivato molti contatti in vari campi professionali per essere pronti per promuovere l'iniziativa a vari livelli.
 * Sono stati redatti i metodi per il coordinamento della progettazione e la condivisione degli obiettivi - E' stata creata tutta la contrattualistica necessaria all'avvio del progetto e la modulistica e sono state organizzare le regole per la condivisione e la partecipazione al progetto.
-* [Entro 28 febbraio 2018 avvio della fase di rilievo per gli immobili che hanno aderito al progetto ed i cui proprietari hanno firmato il contratto.][0]
-* A seguire entro 3 mesi dalla data di consegna dei primi rilievi lo staff architettonico impiantista e strutturale procederà alla consegna dei progetti completi degli immobili e alla creazione dei rendering e viste come se fossero già risanati. Goal previsto per fine Maggio 2018
+* [A metà febbraio 2018 è stata avviata la fase di rilievo per gli immobili che hanno aderito al progetto.][0]
+* A seguire entro 3 mesi dalla data di consegna dei primi rilievi lo staff architettonico impiantista e strutturale procederà alla consegna dei progetti completi degli immobili e alla creazione dei rendering e viste come se fossero già risanati. Goal previsto per fine Giungo 2018
 * in contemporanea Lo staff tecnico/economico si occuperà di selezionare materiali, imprese e quantaltro necessario per redarre i preventivi di spesa per la ristrutturazione chiavi in mano degli immobili.
-* mentre sempre in contemporanea lo staff commerciale e contabile redigerà il businnes plan prevedendo i vari scenari e coreggendo via via il divenire dei progetti 
-inserendo le varie attività economiche e le previsioni delle spese di attivazione dell'intero sistema di accoglienza / servizi / agricoltura diffusa.
-* Dopo un momento di verifica e aggiustamento a inizio giugno "018 con tutti i dati confermati si darà l'avvio alla fase di ricerca degli investitori e dei potenziali acquirenti di porzioni o interi immobili.
-* Nel frattempo a partire da febbraio e via via in crescendo fino a Giugno inizierà anche la promozione sia dei primi servizi collettivi di ospitalità diffusa che saranno coordinati a partire da maggio 2018, che al tempo stesso saranno anche un modo per supportare in modo concreto la ricerca degli investitori per attivare il grosso dei lavori di ristrutturazione necessari a portare a compimento il progetto.
+* mentre sempre in contemporanea lo staff commerciale e contabile redigerà il businnes plan prevedendo i vari scenari e coreggendo via via il divenire dei progetti inserendo le varie attività economiche e le previsioni delle spese di attivazione dell'intero sistema di accoglienza / servizi / agricoltura diffusa.
+* Dopo un momento di verifica e aggiustamento a inizio luglio 2018, con tutti i dati confermati si darà l'avvio alla fase di ricerca degli investitori e dei potenziali acquirenti di porzioni o interi immobili.
+* Nel frattempo a partire da Giugno inizierà anche la promozione sia dei primi servizi collettivi di ospitalità diffusa e avvenimenti mirati alla promozione del progetto.
 * Sarà la bontà del Business plan e l'interesse suscitato negli investitori a scandire le successive fasi di cui vi daremo conto non appena possibile.
 
 [0]: https://m.facebook.com/events/109359109749226?view=permalink&id=109359116415892 "Evento"
