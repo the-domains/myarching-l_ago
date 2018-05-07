@@ -52,6 +52,9 @@ navigation:
   - name: Avvio delle firme
     id: 56b29898-d79c-491a-9d7d-da4f3bb7040f
     type: content
+  - name: Vuoi investire?
+    url: 'http://investitori.lago.property'
+    type: external
 title: 'MyArching #ProgettoLAgo'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
