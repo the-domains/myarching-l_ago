@@ -7,8 +7,8 @@ description: >-
   dall’affitto degli stessi dopo un’operazione di restauro o riconversione) ti
   chiediamo di compilare il modulo di adesione proprietari che si trova in alto
   nella home page o qui sotto. Ti servono i seguenti dati:
-dateModified: '2018-05-07T00:13:13.952Z'
-datePublished: '2018-05-07T00:13:16.293Z'
+dateModified: '2018-05-07T00:17:04.112Z'
+datePublished: '2018-05-07T00:17:06.530Z'
 title: 'Come Partecipare a #ProgettoLAgo'
 author: []
 publisher: {}
@@ -77,10 +77,11 @@ Se non hai un immobile da mettere in vendita o a reddito, ma vorresti trovare un
 * pulizia
 * gestione delle aree sportive
 * guida turistica
+* gestione agricola e pastorale
 
-e molti altri servizi potrebbero essere implementati e gestiti fin da subito attraverso il comitato di San Giovanni già ora operante a L'Ago e che sarà il fulcro dell'attività ricettiva in questa fase di avvio della riqualificazione di L'Ago.
+Contattaci per proporti come lavoratore all'interno di \#ProgettoLAgo.
 
-A breve il pulsante di autocandidatura sarà attivato.
+Se invece sei interessato a visitare l'Ago o ad investire nell'acquisto di un immobile o quota di immobile potrai a breve sia essere ospitato in una delle case vacanze già operative e vedere i progetti degli immobili in loco.
 
 [0]: https://1drv.ms/f/s!AtM02Wu_Fo4oiTjNNekkJYJ13TLt
 [1]: https://goo.gl/forms/FNH0uvUvbNtGwyH93
