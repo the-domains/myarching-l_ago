@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  Il primo passo da affrontare per valorizzare il vostro immobile è siglare il
+  Il primo passo da affrontare per valorizzare il tuo immobile è siglare il
   contratto di collaborazione fra professionista e proprietario.
-dateModified: '2018-02-10T11:35:30.107Z'
-datePublished: '2018-02-10T11:35:30.896Z'
+dateModified: '2018-05-07T00:23:32.966Z'
+datePublished: '2018-05-07T00:23:35.728Z'
 title: I SERVIZI PER I PROPRIETARI
 author: []
 publisher: {}
@@ -23,12 +23,11 @@ _type: Article
 
 ## Per la sigla del contratto
 
-Il primo passo da affrontare per valorizzare il vostro immobile è siglare il contratto di collaborazione fra professionista e proprietario.
-[SCARICA IL TUO CONTRATTO][0]
+Il primo passo da affrontare per valorizzare il tuo immobile è siglare il contratto di collaborazione fra professionista e proprietario.
 
-Se hai ricevuto per email la valutazione del tuo immobile Allegato 1 puoi stampare la documentazione e compilare il tuo contratto inserendo i tuoi dati personali, quelli degli o dell'immobile ed i valori evidenziati in email relativi alle varie competenze professionali e al valore dell'immobile. Nel documento di delega dovrai inserire i dati degli altri proprietari che ti hanno delegato a rappresentarli per la firma del contratto, (ricordati di fare anche una copia dei documenti di riconoscimento di tutti i comproprietari da allegare alla delega)
+Se ci hai contattato in uno dei modi spiegati più sopra, dopo la visita dell'immobile ti manderemo il contratto gli allegati e il documento di valutazione preliminare dell'immobile. 
 
-Tu dovrai firmare il contratto e i deleganti il documento di delega con i loro dati ed inviarci il tutto come da istruzioni contenute nella email a mezzo posta celere.
+Una volta firmato il contratto seguendo le istruzioni allegate, ce lo farai avere e potremo iniziare anche il rilievo del tuo immobile.
 
 ## Documentazione insufficiente
 
@@ -40,7 +39,7 @@ Se sono emersi nella ricerca problemi di non conformità catastale o urbanistica
 
 I documenti di delega necessari vi saranno inviati via Email o fax da ritornare firmati con i vostri dati a mezzo posta celere 1 all'indirizzo:
 
-[Massimiliano Lusetti Ingegnere][1]
+[Massimiliano Lusetti Ingegnere][0]
 
 Loc. Crova 1F
 
@@ -58,5 +57,4 @@ Per inserire il vostro immobile in \#ProgettoLAgo è necessario pagare la tariff
 
 Per i Proprietari residenti in provincia di La Spezia e Genova saranno organizzati eventi in L'Ago per la stipula del contratto in cui le persone invitate potranno partecipare. Per chi vive fuori la Liguria è possibile prenotare ove disponibile visita di un referente MyArching per la provincia o regione in modo da agevolare in modo veloce e comodo per il proprietario la stipula del contratto.
 
-[0]: https://1drv.ms/f/s!AtM02Wu_Fo4oiTjNNekkJYJ13TLt
-[1]: https://card.inigoapp.com/i/0E5086A501D6E9B13F3E5C8966BD2833?sh=1458283507
+[0]: https://card.inigoapp.com/i/0E5086A501D6E9B13F3E5C8966BD2833?sh=1458283507
