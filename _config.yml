@@ -55,7 +55,7 @@ navigation:
   - name: Vuoi investire?
     url: 'http://investitori.lago.property'
     type: external
-title: 'MyArching #ProgettoLAgo'
+title: L'AgoRÁ L'Albergo borgo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
